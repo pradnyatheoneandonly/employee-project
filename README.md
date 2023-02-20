@@ -1,5 +1,5 @@
 # employee-project
-## steps to install project on local machine:
+## Steps to install project on local machine:
 
 Step 1 - Clone the main branch code.
 Note - 'Employee' folder is for client side code(React, react toolkit,ant design library,typescript)
