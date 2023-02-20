@@ -12,8 +12,9 @@ go inside employee folder and do npm start  but make sure your backend code is r
 
 after npm start it will open on 3000 port in your browser.
 
-login credentials for admin - email - bruno@gmail.com, password - bruno  
+### login credentials for admin - email - bruno@gmail.com, password - bruno  
 
-This is for employee - email - techie@gmail.com password - techie 
-inside json-server-lib you can check employee.json file  where all records are saved.
+### This is for employee - email - techie@gmail.com password - techie 
+
+### inside json-server-lib you can check employee.json file  where all records are saved.
 
